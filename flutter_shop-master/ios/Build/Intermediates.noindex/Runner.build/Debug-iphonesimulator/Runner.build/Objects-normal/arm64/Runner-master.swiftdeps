@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "5a15aef16ac375d12c80a7cc337d47567efbfa1e930bf84bdfdb176d6de42d0c"
+build_start_time: [1686203262, 904053000]
+build_end_time: [1686203267, 5146000]
+inputs:
+  "/Users/yezewei/Downloads/Jindianyzw/0000/flutter_shop-master/ios/Runner/AppDelegate.swift": [1686098666, 0]

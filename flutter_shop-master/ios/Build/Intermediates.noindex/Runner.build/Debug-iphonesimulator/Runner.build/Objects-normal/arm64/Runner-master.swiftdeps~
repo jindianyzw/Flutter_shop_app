@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "a70e1222e62ee6b327606ae3c34537c80dc31f85c9bcd0fe011822caccf8de3d"
+build_start_time: [1686193643, 212227000]
+build_end_time: [1686193643, 277452000]
+inputs:
+  "/Users/yezewei/Downloads/Jindianyzw/0000/shopping_mall-master/ios/Runner/AppDelegate.swift": !private [1686098666, 0]
