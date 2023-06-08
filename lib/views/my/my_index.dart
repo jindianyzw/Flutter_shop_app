@@ -109,7 +109,7 @@ class _MyIndexState extends State<MyIndex> {
         Row(
           mainAxisAlignment: MainAxisAlignment.spaceAround,
           children: [
-            _orderButton('待付款32', 'assets/svg/order_daifukuan.svg'),
+            _orderButton('待付款', 'assets/svg/order_daifukuan.svg'),
             _orderButton('待发货', 'assets/svg/order_daifahuo.svg'),
             _orderButton('待收货', 'assets/svg/order_daishouhuo.svg'),
             _orderButton('待评价', 'assets/svg/order_daipingjia.svg'),
