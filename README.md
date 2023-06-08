@@ -1,2 +1,22 @@
-# Flutter_shop_app
-项目基于Flutter+Dart技术开发，构建跨平台移动应用程序。模拟盒马生鲜APP，包含首页模块、商品展示和搜索模型、购物车模型、订单管理、个人中心、促销活动、客户服务中心、用户评价等功能。后端的主要技术架构是SpringBoot + MyBatis-Plus +Redis+Echarts+ MySQL
+# 盒马生鲜
+
+使用 `Flutter 2.x` 版本开发的一个 电子生鲜APP项目，支持 `Null Safety`
+
+## LICENSE
+
+该项目使用 `GPL-2.0` 协议，如果您使用了该项目或部分代码，请以相同的协议开源您的项目。协议详细请查看根目录 `LICENSE` 文件。
+
+这是为了更好的帮助具有相同开源精神的开发者，学习项目思路与写法，避免一味的索取于商用。
+
+## Get Start
+
+```sh
+# 初始化项目资源包
+flutter pub get
+
+# 运行项目
+flutter run
+```
+
+如果未能启动 `macos`, 则需先构建项目 `flutter create .`
+
